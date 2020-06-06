@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Prashant",
+  "MiddleName": "",
+  "LastName": "Gupta",
+  "devDesc": "| Engineer | Programmer | Backend Developer | Gamer ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/pr-gupta",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/ghost0yo",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/pg__.__/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/dumbpg/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://twitter.com/Dumb_PG",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "pg__.__",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I'm Computer Engineer from India. Currently working at a Healthcare startup Cure.fit",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "pr-gupta",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
